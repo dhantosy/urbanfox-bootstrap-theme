@@ -1,0 +1,16 @@
+@font-face {
+  font-family: "bree-serif";
+  src: url('bree-serif.woff2') format('woff2'),
+       url('bree-serif.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+
+}
+
+@font-face {
+  font-family: "inter-ui-regular";
+  src: url('inter-ui-regular.woff2') format('woff2'),
+       url('inter-ui-regular.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
