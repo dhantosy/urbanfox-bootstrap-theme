@@ -8,6 +8,9 @@ Versioning will follow [the Semantic Versioning guidelines](http://semver.org/).
 
 ## CHANGELOG
 
+**Version 1.1.0**
+- Added Bree Serif Light web fonts
+
 **Version 1.0.0**
 - Theme colours
 - Web fonts
